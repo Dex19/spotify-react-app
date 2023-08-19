@@ -1,2 +1,2 @@
 # spotify-react-app
-Simple spotify react app created by following YT tutorial
+Simple Spotify react app created by following *[Web Dev Simplified](https://youtu.be/Xcet6msf3eE)* YouTube tutorial.
